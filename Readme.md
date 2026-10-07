@@ -128,7 +128,7 @@ The debugging process required checking:
 After working through the initial deployment problems, the project was organized into a dedicated GitHub repository.
 The repository contains the application code, dependency configuration, and supporting files required to reproduce the project.
 <p align="center">
-  <img src="./images/Screenshot 2026-09-19 125026(1).png" alt="Resume Toolkit GitHub repository" width="100%">
+  <img src="./images/Screenshot 2026-09-19 125026.png" alt="Resume Toolkit GitHub repository" width="100%">
 </p>
 
 Repository Structure
